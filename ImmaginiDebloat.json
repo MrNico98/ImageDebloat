@@ -1,14 +1,17 @@
 [
   {
     "Nome": "Calcolatrice",
+    "ID": "Calcolatrice",
     "ImmagineUrl": "https://raw.githubusercontent.com/MrNico98/ImageDebloat/refs/heads/main/Immagini/Calcolatrice.png"
   },
   {
     "Nome": "Fotocamera",
+    "ID": "Fotocamera",
     "ImmagineUrl": "https://raw.githubusercontent.com/MrNico98/ImageDebloat/refs/heads/main/Immagini/Fotocamera.png"
   },
   {
     "Nome": "Paint",
+    "ID": "Paint",
     "ImmagineUrl": "https://raw.githubusercontent.com/MrNico98/ImageDebloat/refs/heads/main/Immagini/Paint.png"
   },
   {
