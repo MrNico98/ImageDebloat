@@ -1,10 +1,18 @@
 [
   {
     "Nome": "Calcolatrice",
-    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Adobe/acrobatpro.jpg",
+    "ImmagineUrl": "https://raw.githubusercontent.com/MrNico98/ImageDebloat/refs/heads/main/Immagini/Calcolatrice.png",
   },
   {
     "Nome": "Fotocamera",
-    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-na/Store/main/Immagini/Adobe/acrobatpro.jpg",
+    "ImmagineUrl": "https://raw.githubusercontent.com/MrNico98/ImageDebloat/refs/heads/main/Immagini/Fotocamera.png",
+  },
+  {
+    "Nome": "Paint",
+    "ImmagineUrl": "https://raw.githubusercontent.com/MrNico98/ImageDebloat/refs/heads/main/Immagini/Paint.png",
+  },
+  {
+    "Nome": "MSStore",
+    "ImmagineUrl": "https://raw.githubusercontent.com/MrNico98/ImageDebloat/refs/heads/main/Immagini/MSStore.png",
   }
 ]
