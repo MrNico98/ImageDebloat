@@ -1,5 +1,10 @@
  [
   {
+    "Nome": "Generale",
+    "ID": "Generale",
+    "ImmagineUrl": "https://raw.githubusercontent.com/MrNico98/ImageDebloat/refs/heads/main/Immagini/Generale.png"
+  },  
+  {
     "Nome": "Calcolatrice",
     "ID": "Calcolatrice",
     "ImmagineUrl": "https://raw.githubusercontent.com/MrNico98/ImageDebloat/refs/heads/main/Immagini/Calcolatrice.png"
@@ -38,5 +43,95 @@
     "Nome": "Strumento di Cattura",
     "ID": "Strumento di Cattura",
     "ImmagineUrl": "https://raw.githubusercontent.com/MrNico98/ImageDebloat/refs/heads/main/Immagini/Strumento%20di%20cattura.png"
-  }    
+  },
+  {
+    "Nome": "Sveglie e Orologio",
+    "ID": "Sveglie e Orologio",
+    "ImmagineUrl": "https://raw.githubusercontent.com/MrNico98/ImageDebloat/refs/heads/main/Immagini/SvegliaEorologio.png"
+  },
+  {
+    "Nome": "OneNote",
+    "ID": "OneNote",
+    "ImmagineUrl": "https://raw.githubusercontent.com/MrNico98/ImageDebloat/refs/heads/main/Immagini/OneNote.png"
+  },
+  {
+    "Nome": "Microsoft To-Do",
+    "ID": "Microsoft To-Do",
+    "ImmagineUrl": "https://raw.githubusercontent.com/MrNico98/ImageDebloat/refs/heads/main/Immagini/ToDo.png"
+  },
+  {
+    "Nome": "Sticky Notes",
+    "ID": "Sticky Notes",
+    "ImmagineUrl": "https://raw.githubusercontent.com/MrNico98/ImageDebloat/refs/heads/main/Immagini/StickyNotes.png"
+  },
+  {
+    "Nome": "Microsoft Solitaire",
+    "ID": "Microsoft Solitaire",
+    "ImmagineUrl": "https://raw.githubusercontent.com/MrNico98/ImageDebloat/refs/heads/main/Immagini/Solitario.png"
+  },
+  {
+    "Nome": "Meteo",
+    "ID": "Meteo",
+    "ImmagineUrl": "https://raw.githubusercontent.com/MrNico98/ImageDebloat/refs/heads/main/Immagini/Meteo.png"
+  },
+  {
+    "Nome": "Microsoft News",
+    "ID": "Microsoft News",
+    "ImmagineUrl": "https://raw.githubusercontent.com/MrNico98/ImageDebloat/refs/heads/main/Immagini/News&Interssi.png"
+  },   
+  {
+    "Nome": "Xbox Identity Provider",
+    "ID": "Xbox Identity Provider",
+    "ImmagineUrl": "https://raw.githubusercontent.com/MrNico98/ImageDebloat/refs/heads/main/Immagini/XboxGameProvider.png"
+  },
+  {
+    "Nome": "Xbox Game Overlay",
+    "ID": "Xbox Game Overlay",
+    "ImmagineUrl": "https://raw.githubusercontent.com/MrNico98/ImageDebloat/refs/heads/main/Immagini/XboxGameOverlay.png"
+  },
+  {
+    "Nome": "Lettore Musicale",
+    "ID": "Lettore Musicale",
+    "ImmagineUrl": "https://raw.githubusercontent.com/MrNico98/ImageDebloat/refs/heads/main/Immagini/LettoreMusicale.png"
+  },
+  {
+    "Nome": "Skype",
+    "ID": "Skype",
+    "ImmagineUrl": "https://raw.githubusercontent.com/MrNico98/ImageDebloat/refs/heads/main/Immagini/Skype.png"
+  }, 
+  {
+    "Nome": "Lavagna",
+    "ID": "Lavagna",
+    "ImmagineUrl": "https://raw.githubusercontent.com/MrNico98/ImageDebloat/refs/heads/main/Immagini/Lavagna.png"
+  },
+  {
+    "Nome": "Messaggi",
+    "ID": "Messaggi",
+    "ImmagineUrl": "https://raw.githubusercontent.com/MrNico98/ImageDebloat/refs/heads/main/Immagini/Messaggi.png"
+  },
+  {
+    "Nome": "Supporto Microsoft",
+    "ID": "Supporto Microsoft",
+    "ImmagineUrl": "https://raw.githubusercontent.com/MrNico98/ImageDebloat/refs/heads/main/Immagini/Supporto.png"
+  },
+  {
+    "Nome": "Mappe",
+    "ID": "Mappe",
+    "ImmagineUrl": "https://raw.githubusercontent.com/MrNico98/ImageDebloat/refs/heads/main/Immagini/Mappe.png"
+  }, 
+  {
+    "Nome": "Office Hub",
+    "ID": "Office Hub",
+    "ImmagineUrl": "https://raw.githubusercontent.com/MrNico98/ImageDebloat/refs/heads/main/Immagini/OfficeHub.png"
+  },
+  {
+    "Nome": "Contatti",
+    "ID": "Contatti",
+    "ImmagineUrl": "https://raw.githubusercontent.com/MrNico98/ImageDebloat/refs/heads/main/Immagini/Contatti.png"
+  },  
+  {
+    "Nome": "Office Hub",
+    "ID": "Office Hub",
+    "ImmagineUrl": "https://raw.githubusercontent.com/MrNico98/ImageDebloat/refs/heads/main/Immagini/OfficeHub.png"
+  }
 ]
