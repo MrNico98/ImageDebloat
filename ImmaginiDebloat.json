@@ -1,4 +1,4 @@
-[
+ [
   {
     "Nome": "Calcolatrice",
     "ID": "Calcolatrice",
@@ -18,5 +18,15 @@
     "Nome": "MSStore",
     "ID": "Microsoft Store",
     "ImmagineUrl": "https://raw.githubusercontent.com/MrNico98/ImageDebloat/refs/heads/main/Immagini/MSStore.png"
-  }
+  },
+  {
+    "Nome": "Collegamento al telefono",
+    "ID": "Collegamento al telefono",
+    "ImmagineUrl": "https://raw.githubusercontent.com/MrNico98/ImageDebloat/refs/heads/main/Immagini/Collegamentotelefono.png"
+  },
+  {
+    "Nome": "Paint 3D",
+    "ID": "Paint 3D",
+    "ImmagineUrl": "https://raw.githubusercontent.com/MrNico98/ImageDebloat/refs/heads/main/Immagini/Paint%203D.png"
+  },     
 ]
