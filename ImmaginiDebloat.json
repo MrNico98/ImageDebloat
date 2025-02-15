@@ -29,4 +29,14 @@
     "ID": "Paint 3D",
     "ImmagineUrl": "https://raw.githubusercontent.com/MrNico98/ImageDebloat/refs/heads/main/Immagini/Paint%203D.png"
   },     
+  {
+    "Nome": "Portale Realtà Mista",
+    "ID": "Portale Realtà Mista",
+    "ImmagineUrl": "https://raw.githubusercontent.com/MrNico98/ImageDebloat/refs/heads/main/Immagini/Portale%20Realt%C3%A0%20Mista.png"
+  },
+  {
+    "Nome": "Strumento di Cattura",
+    "ID": "Strumento di Cattura",
+    "ImmagineUrl": "https://raw.githubusercontent.com/MrNico98/ImageDebloat/refs/heads/main/Immagini/Strumento%20di%20cattura.png"
+  },      
 ]
