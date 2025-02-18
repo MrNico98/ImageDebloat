@@ -92,7 +92,7 @@
   {
     "Nome": "Lettore Musicale",
     "ID": "Lettore Musicale",
-    "ImmagineUrl": "https://raw.githubusercontent.com/MrNico98/ImageDebloat/refs/heads/main/Immagini/LettoreMusicale.png"
+    "ImmagineUrl": "https://raw.githubusercontent.com/MrNico98/ImageDebloat/refs/heads/main/Immagini/LettoreMultimediale.png"
   },
   {
     "Nome": "Skype",
@@ -133,5 +133,20 @@
     "Nome": "Office Hub",
     "ID": "Office Hub",
     "ImmagineUrl": "https://raw.githubusercontent.com/MrNico98/ImageDebloat/refs/heads/main/Immagini/OfficeHub.png"
+  },
+  {
+    "Nome": "3D Builder",
+    "ID": "3D Builder",
+    "ImmagineUrl": "https://raw.githubusercontent.com/MrNico98/ImageDebloat/refs/heads/main/Immagini/3DBuilder.png"
+  },
+  {
+    "Nome": "Clipchamp",
+    "ID": "Clipchamp",
+    "ImmagineUrl": "https://raw.githubusercontent.com/MrNico98/ImageDebloat/refs/heads/main/Immagini/Clipchamp.png"
+  },
+  {
+    "Nome": "Power Automate Desktop",
+    "ID": "Power Automate Desktop",
+    "ImmagineUrl": "https://raw.githubusercontent.com/MrNico98/ImageDebloat/refs/heads/main/Immagini/PowerAutomateDesktop.png"
   }
 ]
